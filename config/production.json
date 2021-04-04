@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"mongoUri": "mongodb+srv://lizard:A96vN2Nr6aPv3JzX@cluster0.gvc7q.mongodb.net/mernLinkBeautifyer?retryWrites=true&w=majority",
+	"jwtSecret": "Walter is woodpecker's son",
+	"baseUrl": "http://localhost:5000"
+}
